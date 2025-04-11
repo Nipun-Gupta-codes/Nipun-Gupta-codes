@@ -41,6 +41,9 @@ Full Stack Developer who vibes with clean code, coffee ☕, and creative side-pr
 > cat /skills/current_learning
 Web3, Smart Contracts, Decentralized Apps
 
+> cat /personality/vibes
+Fueled by chill beats, late-night coding, and keyboard jazz 🎧⌨️🎶
+
 > sudo motto
 "Keep building. Stay curious."
 ```
