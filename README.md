@@ -1,22 +1,67 @@
-## Hi there 👋
+# Hey there! I'm Nipun 👋
 
-<h1 align="center">Hi 👋, I'm Nipun Gupta</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+Welcome to my GitHub space. I'm a **Full Stack Web Developer** who enjoys building cool stuff for the web and constantly leveling up. Whether it's writing clean backend APIs or crafting smooth frontend experiences — I'm here for it all 🚀
 
-- 🌱 I’m currently learning **Web 3**
+---
 
-- 📫 How to reach me **nipungup002@gmail.com**
+### 💻 Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ccAwY1oK9k0E5fHD7G9F7q6wGpYljb7i/view?usp=drive_link](https://drive.google.com/file/d/1ccAwY1oK9k0E5fHD7G9F7q6wGpYljb7i/view?usp=drive_link)
+- **Languages**: `C++`, `Java`, `JavaScript`, `HTML`, `CSS`
+- **Frontend**: `ReactJS`, `Bootstrap`
+- **Backend**: `Node.js`, `Express.js`
+- **Database**: `PostgreSQL`
+- **Tools**: `Postman`, `Figma`, `Git`, `Linux`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nipun-gupta123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun-gupta123" height="30" width="40" /></a>
-<a href="https://instagram.com/nipun_gupta_9859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipun_gupta_9859" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/TheFormalGuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="TheFormalGuy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/NipunGupta001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NipunGupta001" height="30" width="40" /></a>
-</p>
+> 🧪 Currently exploring the world of **Web3** 🌐🔗
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://th.bing.com/th/id/OIP.Ty9sAOxS3uHABbbs5xbCzwHaEK?rs=1&pid=ImgDetMain)" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://th.bing.com/th/id/OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL?rs=1&pid=ImgDetMain)" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254217/postman-icon-md.png)" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [nipungup002@gmail.com](mailto:nipungup002@gmail.com)  
+- 📄 [Resume](https://drive.google.com/file/d/1ccAwY1oK9k0E5fHD7G9F7q6wGpYljb7i/view?usp=drive_link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nipun-gupta123/)  
+- 📷 [Instagram](https://instagram.com/nipun_gupta_9859)
+
+---
+
+### 🧠 Coding Profiles
+
+- 🧩 [LeetCode - NipunGupta001](https://leetcode.com/NipunGupta001/)
+- ⚔️ [Codeforces - TheFormalGuy](https://codeforces.com/profile/TheFormalGuy)
+
+---
+
+### ✨ A bit about me
+
+```bash
+> whoami
+Full Stack Developer who vibes with clean code, coffee ☕, and creative side-projects.
+
+> cat /skills/current_learning
+Web3, Smart Contracts, Decentralized Apps
+
+> sudo motto
+"Keep building. Stay curious."
+```
+
+---
+
+### 📊 GitHub Stats
+
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipun-Gupta-codes&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Gupta-codes&layout=compact&theme=tokyonight)
+
+---
+
+### 🎯 Featured Projects
+
+Stay tuned... cool stuff in the pipeline 👨‍💻✨
+
+---
+
+Thanks for dropping by!  
+Feel free to check out my repositories and connect 🤝  
+_– Nipun_
 
