@@ -7,7 +7,7 @@ Welcome to my GitHub space. I'm a **Full Stack Web Developer** who enjoys buildi
 ### 💻 Tech Stack
 
 - **Languages**: `C++`, `Java`, `JavaScript`, `HTML`, `CSS`
-- **Frontend**: `ReactJS`, `Bootstrap`
+- **Frontend**: `ReactJS`, `Bootstrap`, `EJS`
 - **Backend**: `Node.js`, `Express.js`
 - **Database**: `PostgreSQL`
 - **Tools**: `Postman`, `Figma`, `Git`, `Linux`
